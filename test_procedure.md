@@ -37,9 +37,10 @@ As follows:
 ## Re-record sample (39 mins)
 1) Press Button 1 (labelled S1) to mark the time of the next sample
 2) Re-fit the build plate, if it was removed. We dont want to add any more chemicals, so please dont use IPA or other solvents to clean the plate
-3) Print half of a 30mm Voron Cube in your filament of choice (my slicer predicts 8g in 39m) - we're aiming at 30 minutes of test data
-4) Note, we're not aiming for a nice print. Just something to gather data
-5) Once the print has finished, disconnect the power from the dev board
+3) Pre-heat the extruder to the printable temperature
+4) Print half of a 30mm Voron Cube in your filament of choice (my slicer predicts 8g in 39m) - we're aiming at 30 minutes of test data
+5) Note, we're not aiming for a nice print. Just something to gather data
+6) Once the print has finished, disconnect the power from the dev board
 
 Total Time: 2hrs 18mins + some faffing time.
 
